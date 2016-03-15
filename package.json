@@ -1,0 +1,23 @@
+{
+  "name": "angular-tdd-kata",
+  "version": "1.0.0",
+  "description": "String Calculator TDD Kata",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org:tradefinance/lookup"
+  },
+  "author": "Ronald Hobbs",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.5.0",
+    "angular-mocks": "^1.5.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.7"
+  }
+}
